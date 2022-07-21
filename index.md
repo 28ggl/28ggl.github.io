@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
 
-You can use the [editor on GitHub](https://github.com/28ggl/28ggl.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<title>28ggl结果参考最新发布地址</title>
+<meta name="renderer" content="webkit">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="stylesheet" href="./index_files/bootstrap.min.css">
+<link rel="stylesheet" href="./index_files/min.css">
+<script src="./index_files/jquery.min.js"></script>
+<script src="./index_files/bootstrap.min.js"></script>
+</head>
+<body>
 
-### Markdown
+	<div class="container" style="margin-top:9%;">
+	<div id="logo">
+<a href="http://149.248.59.98:88/" data-link-name="home icon"><img src="./index_files/logo.png" alt="pcdd" width="222" height="88"></a>
+    </div>
+  		<div class="jumbotron">
+        <div class="panel panel-success">
+        <div class="panel-heading"><h3 align="center">28GGL最新地址</h3></div>
+          <p align="center"><font size="6"><a target="_blank" href="https://www.28ggl.com">点击继续访问</a></font></p>
+         <p align="center"><font size="6"><a target="_blank" href="http://149.248.59.98:89/">备用线路</a></font></p>
+         <p align="center"><font size="6"><a target="_blank" href="https://www.pcggl.com">合作站点</a></font></p>
+         
+        </div> 
+		     <div class="panel panel-success">
+      <div class="panel-heading"><h4 align="center">防止找不到本站。一定要记住本站地址</h4></div>
+        </div> 
+          <p align="center">按 CTRL+D 收藏本页面<br>(如遇不可访问，这是由于我们在抢修中稍后一些时间再访问即可．)</p>   
+        </div>
+	</div>
+  <div style="display:none">1</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/28ggl/28ggl.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body></html>
